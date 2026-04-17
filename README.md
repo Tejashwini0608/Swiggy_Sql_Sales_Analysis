@@ -93,9 +93,6 @@ The project uses a star schema with:
 ## 🚀 Conclusion
 This project demonstrates how SQL can be used to transform raw data into meaningful insights using data modeling and analytical queries.
 
----
 
-## 📌 Future Improvements
-- Connect with Power BI for visualization
-- Add customer segmentation analysis
-- Build predictive models
+
+
